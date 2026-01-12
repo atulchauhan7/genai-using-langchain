@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+.cache/
+
+# Virtual environments
+venv/
+venv*/
+.env
+.venv/
+
+# Jupyter/VSCode
+.ipynb_checkpoints/
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build/Dist
+build/
+dist/
+site/
